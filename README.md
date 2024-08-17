@@ -1,7 +1,5 @@
 # Basic Machine Learning Task
 
-[//]: # (Logo)
-
 ### Overview
 - These are useful projects for beginners and intermediates to approaching Machine Learning. Each ipynb file is a different topic (lesson).
 - Dependency: Python and some other libraries are listed in each document (ipynb files).
@@ -19,6 +17,4 @@
     - Support Vector Machine
 
 ### Maintainers
-* Trần Đặng Trung Đức ([Profile](https://github.com/trandangtrungduc))
-
-[//]: # (License)
+* Tran Dang Trung Duc
